@@ -3,3 +3,4 @@ test
 test
 hi I'm the new dev
 test merge master
+test merge master
